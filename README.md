@@ -1,5 +1,15 @@
 # LearnCiel
 
-School project: an online learning platform where students can access course material (PDFs) and follow along with lessons remotely.
+School project: an online learning platform.
 
-Built as part of my studies. Currently early-stage / not yet started.
+## Problem
+
+Students need a simple way to access course material and follow lessons remotely, without depending on a specific in-person session.
+
+## Solution
+
+A platform hosting course PDFs that students can browse and follow online, at their own pace.
+
+## Structure
+
+Early-stage — not yet started. No code beyond this README yet.
